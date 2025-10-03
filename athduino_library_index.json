@@ -20,6 +20,18 @@
           "archive": "https://github.com/athduino/ATH-NANO-PCU-v2.1.0/archive/refs/tags/v1.0.0.zip",
           "architectures": ["*"]
         }
+        {
+          "name": "ADC128s",
+          "version": "1.0.0",
+          "author": "JMorales",
+          "maintainer": "IENAI SPACE",
+          "sentence": "ADC128s 8-channel ADC library",
+          "paragraph": "",
+          "category": "Core",
+          "url": "https://github.com/athduino/ADC128s",
+          "archive": "https://github.com/athduino/ADC128s/archive/refs/tags/v1.0.0.zip",
+          "architectures": ["*"]
+        }
       ]
     }
   ]
