@@ -1,21 +1,26 @@
 {
-  "libraries": [
+  "packages": [
     {
-      "name": "ADC128s",
-      "version": "1.0.0",
-      "author": "JMorales",
-      "maintainer": "IENAI SPACE <support@mycompany.com>",
-      "sentence": "ADC128s 8-channel ADC library",
-      "paragraph": "",
-      "category": "Core",
-      "website": "https://github.com/athduino/ADC128s",
-      "architectures": ["*"],
-      "repository": {
-        "type": "git",
-        "url": "https://github.com/athduino/ADC128s.git"
-      },
-      "url": "https://github.com/athduino/ADC128s/archive/refs/tags/v1.0.0.zip",
-      "archiveFileName": "ADC128s-1.0.0.zip"
+      "name": "athduino",
+      "maintainer": "IENAI SPACE",
+      "websiteURL": "https://github.com/athduino",
+      "email": "support@mycompany.com",
+      "platforms": [],
+      "tools": [],
+      "libraries": [
+        {
+          "name": "ADC128s",
+          "version": "1.0.0",
+          "author": "JMorales",
+          "maintainer": "IENAI SPACE <support@mycompany.com>",
+          "sentence": "ADC128s 8-channel ADC library",
+          "paragraph": "",
+          "category": "Sensors",
+          "url": "https://github.com/athduino/ADC128s",
+          "archiveFileName": "ADC128s-1.0.0.zip",
+          "architectures": ["*"]
+        }
+      ]
     }
   ]
 }
