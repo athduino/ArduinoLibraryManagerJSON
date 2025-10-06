@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "ADC128s Library Package",
+      "name": "Athena library package index",
       "maintainer": "JMorales",
       "websiteURL": "https://github.com/athduino/ADC128s",
       "email": "support@mycompany.com",
@@ -11,9 +11,8 @@
           "architecture": "all",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/athduino/ADC128s/releases/download/v1.0.0/package_adc128s-1.0.0.zip",
-          "archiveFileName": "package_adc128s-1.0.0.zip",
-          "checksum": "SHA256:YOUR_SHA256_HASH_HERE"
+          "url": "https://github.com/athduino/ADC128s/releases/download/v1.0.0/adc128s-1.0.0.zip",
+          "archiveFileName": "adc128s-1.0.0.zip",
         }
       ],
       "tools": []
